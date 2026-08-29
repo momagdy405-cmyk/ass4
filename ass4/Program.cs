@@ -29,7 +29,6 @@
             //Book B = new Book();
             //Console.WriteLine(B.copiesInStock); 
             #endregion
-
             #region Q3
             //class Book()
             //{
@@ -38,7 +37,25 @@
             //Book b = new Book();
             //Console.WriteLine(b.title);  
             #endregion
+            #region Q4
+            //Declare an enum Genre { Fiction, NonFiction, Science }. Add a Genre property to Book, assign it Genre.Science, and print it. 
 
+            //class Book()
+            //{
+                //    public Genre G = Genre.science;
+            //}
+            //public enum Genre {
+            //    unknown,
+            //    fiction,
+            //    nonfiction,
+            //    science
+
+            //}
+
+            //Book bo = new Book();
+            //Console.WriteLine(bo.G);
+
+            #endregion
 
 
 
