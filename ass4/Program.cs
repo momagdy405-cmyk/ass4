@@ -87,7 +87,7 @@
             //Genre g = (Genre)genrenumber;
             //Console.WriteLine(g);
             #endregion
-            #region Q8
+            #region Q7
             //Given Genre genre = Genre.Fiction;, convert it into a string using ToString() and print it. 
 
             //public enum Genre {
@@ -101,6 +101,20 @@
             //string txt = genre.ToString();
             //Console.WriteLine(txt);
             #endregion
+            #region Q9
+            //Given string genreText = "Science";, convert it into a Genre value using Enum.Parse() and print the result. 
+
+            //public enum Genre {
+            //    unknown,
+            //    fiction,
+            //    nonfiction,
+            //    science
+            //}
+            //string genretext = "sceince";
+            //Genre genre = (Genre)Enum.Parse(typeof(Genre),genretext);
+            //Console.WriteLine(genretext);
+            #endregion
+
 
 
 
