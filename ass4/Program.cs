@@ -30,6 +30,15 @@
             //Console.WriteLine(B.copiesInStock); 
             #endregion
 
+            #region Q3
+            //class Book()
+            //{
+            //public string title = "clean code";
+            //}
+            //Book b = new Book();
+            //Console.WriteLine(b.title);  
+            #endregion
+
 
 
 
