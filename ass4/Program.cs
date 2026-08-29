@@ -57,6 +57,8 @@
 
             #endregion
             #region Q5
+            //Using the Genre enum above, print the underlying int value of Genre.Fiction, Genre.NonFiction, and Genre.Science by casting each to int. 
+
             //public enum Genre {
             //    unknown,
             //    fiction,
@@ -65,8 +67,25 @@
 
             //}
 
-            //Genre genre = Genre.fiction;
-            //Console.WriteLine((int)genre);
+            //Genre genre1 = Genre.fiction;
+            //Console.WriteLine((int)genre1);
+            // Genre genre2 = Genre.nonfiction;
+            //Console.WriteLine((int)genre2);
+            //Genre genre3 = Genre.science;
+            //Console.WriteLine((int)genre3);
+            #endregion
+            #region Q6
+            //Given int genreNumber = 1;, cast it into a Genre value and print the result. 
+            //public enum Genre {
+            //    unknown,
+            //    fiction,
+            //    nonfiction,
+            //    science
+
+            //}
+            //int genrenumber = 1;
+            //Genre g = (Genre)genrenumber;
+            //Console.WriteLine(g);
             #endregion
 
 
