@@ -42,7 +42,7 @@
 
             //class Book()
             //{
-                //    public Genre G = Genre.science;
+            //    public Genre G = Genre.science;
             //}
             //public enum Genre {
             //    unknown,
@@ -55,6 +55,18 @@
             //Book bo = new Book();
             //Console.WriteLine(bo.G);
 
+            #endregion
+            #region Q5
+            //public enum Genre {
+            //    unknown,
+            //    fiction,
+            //    nonfiction,
+            //    science
+
+            //}
+
+            //Genre genre = Genre.fiction;
+            //Console.WriteLine((int)genre);
             #endregion
 
 
